@@ -11,9 +11,8 @@ DevaBhumi is an open digital sanctuary dedicated to the sacred temples of India.
 
 - 🔍 **Search & Explore** — Find temples by name, region, deity, or architectural style
 - 🏛️ **Temple Profiles** — Rich history, significance, architecture and mythology
-- 🗺️ **Interactive Maps** — Know exactly where each temple stands
+
 - 📅 **Timings & Festivals** — Pooja schedules and major festival dates
-- 📸 **Visual Gallery** — Stunning imagery from across temple India
 - 🌐 **Regional Coverage** — Kerala · Karnataka · Tamil Nadu · Pan India
 
 ---
