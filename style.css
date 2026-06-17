@@ -4,3 +4,7 @@ body {
   font-family: 'Cinzel', serif;
   cursor: url('Images/diya_cursor_32.png') 16 0, auto;
 }
+
+.temple{
+  filter:blur(30);
+}
