@@ -1,10 +1,4 @@
 body {
-  background: linear-gradient(135deg, #2B0A0A 0%, #5C1414 45%, #8C3A0F 100%);
-  color: #F7D88B;
-  font-family: 'Cinzel', serif;
-  cursor: url('Images/diya_cursor_32.png') 16 0, auto;
-}
-
-.temple{
-  filter:blur(30);
+  background-image: url('Images/temple-bg.jpg');
+  background-color: #7A2B0A;
 }
